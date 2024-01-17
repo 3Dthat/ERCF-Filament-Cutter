@@ -20,3 +20,5 @@ https://www.printables.com/model/622289-filament-cutter-for-sherpa-and-sherpa-pa
 
 
 ![3dthat ERCF_Filament_Cutter](https://github.com/3Dthat/ERCF-Filament-Cutter/blob/3Dthat/Images/Sherpa%20Mini%20Exploded.png)
+![3dthat ERCF_Filament_Cutter](https://github.com/3Dthat/ERCF-Filament-Cutter/blob/3Dthat/Images/LGX_Lite_Render.png)
+![3dthat ERCF_Filament_Cutter](https://github.com/3Dthat/ERCF-Filament-Cutter/blob/3Dthat/Images/Sherpa_mini_render.PNG)
