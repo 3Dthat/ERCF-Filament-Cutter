@@ -19,4 +19,4 @@ https://www.printables.com/model/599936-filament-cutter-sherpa-mini-ercf-v2
 https://www.printables.com/model/622289-filament-cutter-for-sherpa-and-sherpa-patterned-ex
 
 
-![3dthat ERCF_Filament_Cutter](https://github.com/3Dthat/ERCF-Filament-Cutter/blob/3Dthat/Images/Sherpa Mini Exploded.png)
+![3dthat ERCF_Filament_Cutter](https://github.com/3Dthat/ERCF-Filament-Cutter/blob/3Dthat/Images/Sherpa%20Mini%20Exploded.png)
