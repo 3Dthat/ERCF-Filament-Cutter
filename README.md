@@ -2,6 +2,9 @@ This is a filament cutter to LGX Lite and Sherpa Mini extruders. I have been usi
 
 You need to super glue the #11, Exacto Knife Blade into the Blade_Holder_Bottom.stl
 
+If you are using the LGX Lite mount with the Dragon Burner you must use the Sherpa_Mini_Extruder_Mount.stl to mount the LGX Lite Cutter to the Dragon Burner.
+https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Extended_Extruder_Mounts/Sherpa_Mini_Extruder_Mount.stl
+
 For the LGX Lite you need:
 2 x m3x8 to bolt the LGX_Lite_Cutter_Top.stl to the extruder.
 2 x m3x40 to bolt the assembly to the Dragon Burner
